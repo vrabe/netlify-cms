@@ -13,8 +13,8 @@ jobs:
       with:
         # Optional
         styles: |
-          .vale/styles/netlify.zip
-          .vale/styles/write-good.zip
+          .vale/styles/netlify
+          .vale/styles/write-good
 
         # Optional
         files: website/content/docs
