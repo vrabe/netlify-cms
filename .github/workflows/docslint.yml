@@ -14,6 +14,7 @@ jobs:
         # Optional
         styles: |
           .github/lintstyles/proselint.zip
+          .github/lintstyles/netlify.zip
 
         # Optional
         files: website/content/docs
