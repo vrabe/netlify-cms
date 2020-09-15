@@ -13,8 +13,8 @@ jobs:
       with:
         # Optional
         styles: |
-          .github/lintstyles/proselint.zip
-          .github/lintstyles/netlify.zip
+          .vale/styles/netlify.zip
+          .vale/styles/write-good.zip
 
         # Optional
         files: website/content/docs
