@@ -1,5 +1,5 @@
 name: Docs Linting
-on: [pull_request:[opened, edited]]
+on: [push, pull_request:{types:[opened, edited]}]
 
 jobs:
   style-usage:
