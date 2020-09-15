@@ -1,5 +1,5 @@
 extends: existence
-message: "'%s' is ambiguous or misleading."
+message: "'%s' is not needed."
 ignorecase: true
 level: warning
 tokens:
@@ -21,7 +21,6 @@ tokens:
   - brightly
   - briskly
   - bristly
-  - bubbly
   - busily
   - calmly
   - carefully
@@ -46,7 +45,6 @@ tokens:
   - definitely
   - deliberately
   - doubtfully
-  - dumbly
   - eagerly
   - early
   - easily
@@ -77,19 +75,15 @@ tokens:
   - gracefully
   - greedily
   - happily
-  - hardly
   - hastily
   - healthily
   - heartily
   - helpfully
   - honestly
-  - hourly
   - hungrily
   - hurriedly
   - immediately
   - impatiently
-  - inadequately
-  - ingeniously
   - innocently
   - inquisitively
   - interestingly
@@ -98,20 +92,16 @@ tokens:
   - joyously
   - justly
   - kindly
-  - largely
   - lately
   - lazily
   - likely
-  - literally
   - lonely
   - loosely
   - loudly
   - loudly
   - luckily
   - madly
-  - many
   - mentally
-  - mildly
   - monthly
   - mortally
   - mostly
@@ -123,7 +113,6 @@ tokens:
   - normally
   - obediently
   - occasionally
-  - only
   - openly
   - painfully
   - particularly
@@ -136,7 +125,6 @@ tokens:
   - previously
   - promptly
   - punctually
-  - quarterly
   - quickly
   - quietly
   - rapidly
@@ -146,7 +134,6 @@ tokens:
   - recklessly
   - regularly
   - remarkably
-  - relatively
   - reluctantly
   - repeatedly
   - rightfully
@@ -155,7 +142,6 @@ tokens:
   - sadly
   - safely
   - selfishly
-  - sensibly
   - seriously
   - sharply
   - shortly
@@ -165,7 +151,6 @@ tokens:
   - simply
   - sleepily
   - slowly
-  - smartly
   - smelly
   - smoothly
   - softly
@@ -190,12 +175,10 @@ tokens:
   - unexpectedly
   - unfortunately
   - usually
-  - very
   - victoriously
   - violently
   - vivaciously
   - warmly
-  - waverly
   - weakly
   - wearily
   - weekly
