@@ -12,11 +12,6 @@ jobs:
       uses: errata-ai/vale-action@v1.3.0
       with:
         # Optional
-        styles: |
-          .vale/styles/netlify
-          .vale/styles/write-good
-
-        # Optional
         files: website/content/docs
       env:
         # Required
