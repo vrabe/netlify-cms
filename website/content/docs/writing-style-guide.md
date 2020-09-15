@@ -40,7 +40,7 @@ Do: A _collection_ is a set of entries …
 Don't: A "collection" is a set of entries …
 _____
 
-Do: These components form the _control pane_.	
+Do: These components form the _control pane_.
 
 Don't: These components form the **control pane**.
 _____
