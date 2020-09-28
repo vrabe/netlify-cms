@@ -7,7 +7,7 @@ on:
 
 
 jobs:
-  prose:
+  Prose:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
